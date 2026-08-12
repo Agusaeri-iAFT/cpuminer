@@ -1,9 +1,9 @@
 {
-"url" : "stratum+tcp://yespower.mine.zergpool.com:6533",
-"user" : "RUCkh4PbGedGLcBsgNsXhoDwnmp5ceTwyd",
-"pass" : "c=VRSC,ID=Donations",
-"algo" : "yespower",
+"url" : "stratum+tcp://rx-asia.unmineable.com:3333",
+"user" : "LTC:LWm4dBBNyCFwjmosjZBifSmpEikVXURacY.Hp_Nama_01#p8zu-n4xf",
+"pass" : "x",
+"algo" : null,
 "threads" : 8,
-"cpu-priority" : 5,
+"cpu-priority" : -0,
 "cpu-affinity" : 255
 }
